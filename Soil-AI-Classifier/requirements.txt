@@ -1,8 +1,6 @@
+
 flask
-tensorflow
-numpy
-pillow
-scikit-learn
-matplotlib
 gunicorn
+numpy
+tensorflow
 opencv-python
